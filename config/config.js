@@ -4,7 +4,7 @@ const config = {
   address: '',
   privateKey: '',
   httpEndpoint: 'http://octet-fullhistory-ropsten.hexlant.com:2020',
-  accessKey: '4FCWFXMHFGXV4J525NWS6235598M7JBGBX'
+  accessKey: ''
 }
 
 exports.getConfig = function () {
